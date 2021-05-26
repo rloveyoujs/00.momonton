@@ -1,0 +1,20 @@
+{
+  "name": "00.momonton",
+  "version": "0.0.1",
+  "description": "Momentum Clone Coding with Gatsby",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rloveyoujs/00.momonton.git"
+  },
+  "author": "rloveyoujs",
+  "license": "MIT",
+  "homepage": "https://github.com/rloveyoujs/00.momonton",
+  "scripts": {
+    "develop": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^3.6.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
